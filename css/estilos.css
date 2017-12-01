@@ -1,0 +1,12 @@
+.no-bullets {
+	list-style-type: none;
+}
+
+.d-container li {
+	display: inline-block;
+	margin-right: 20px;
+}
+
+.highcharts-text-outline, tspan {
+	cursor: pointer;
+}
